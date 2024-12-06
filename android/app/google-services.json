@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "784456114698",
+    "project_id": "co-car-tw9ggz",
+    "storage_bucket": "co-car-tw9ggz.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784456114698:android:06aff46d706769e15835f3",
+        "android_client_info": {
+          "package_name": "com.mycompany.cocar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784456114698-e77rfseh2a2jikt3k77rf97ihfn830hp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.cocar",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "784456114698-ntjvcc207h8paen8rbd2oooqeue7cn3a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIxmmjn_zAWO9IsNECmQ0k8ea84C5g9zE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784456114698-ntjvcc207h8paen8rbd2oooqeue7cn3a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "784456114698-vavuv4rehn3i2mhv0cm42m0hldrl97hm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.cocar"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
